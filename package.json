@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IgorZhyvotkov.github.io/team-project-group-12",
+  "homepage": "https://TanyaKuchak.github.io/team-project-group-12",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-project-group-12/"
